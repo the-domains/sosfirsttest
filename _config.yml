@@ -2,6 +2,7 @@ name: sosfirsttest
 favicon: null
 layout_spectrum: 0.7315
 typography_spectrum: 0.5958446494769305
+title: This is SOS First Grid Website
 cta:
   domain: null
   bucket: null
