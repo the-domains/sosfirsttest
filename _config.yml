@@ -1,6 +1,6 @@
 name: sosfirsttest
 favicon: null
-layout_spectrum: 0.868251976557076
+layout_spectrum: 0.7315
 typography_spectrum: 0.5958446494769305
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.03471354115754366
-  lightness: 0.21157839335501194
-  saturation: 0.18121678452007473
-  rhythmicContrast: 0.3710651150904596
+    - '#ffffff'
+    - '#404040'
+    - '#10100e'
+    - '#ab70aa'
+    - '#c9c9c9'
+  brandStrength: 0.125
+  lightness: 1
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
