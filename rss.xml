@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[sosfirsttest]]></title>
-        <description><![CDATA[sosfirsttest]]></description>
+        <title><![CDATA[This is SOS First Grid Website]]></title>
+        <description><![CDATA[This is SOS First Grid Website]]></description>
         <link>https://thegrid.ai/sosfirsttest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 22:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 23:20:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sosfirsttest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f716aedb-984a-4f8b-a676-2e4496547324.jpg">]]></description>
+            <title><![CDATA[Main Title for the Titular Man]]></title>
+            <description><![CDATA[<article><h1>Main Title for the Titular Man</h1><p>Main Title for the Main Man</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2acdfe4b9016b8cd62ffaaaa4befe51a0d67beb0.jpg"></article>]]></description>
             <link>https://thegrid.ai/sosfirsttest/08bb6324-96b8-4ba0-a979-f0ed4ffd3f49/index.html</link>
             <guid isPermaLink="false">08bb6324-96b8-4ba0-a979-f0ed4ffd3f49</guid>
-            <pubDate>Sun, 21 Feb 2016 22:41:55 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 23:12:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
