@@ -4,21 +4,21 @@
         <description><![CDATA[sosfirsttest]]></description>
         <link>https://thegrid.ai/sosfirsttest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 22:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 22:47:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sosfirsttest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f716aedb-984a-4f8b-a676-2e4496547324.jpg">]]></description>
+            <link>https://thegrid.ai/sosfirsttest/08bb6324-96b8-4ba0-a979-f0ed4ffd3f49/index.html</link>
+            <guid isPermaLink="false">08bb6324-96b8-4ba0-a979-f0ed4ffd3f49</guid>
+            <pubDate>Sun, 21 Feb 2016 22:41:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e0b6f6f-62cc-4a59-8289-0cd84f22dd24.jpg">]]></description>
             <link>https://thegrid.ai/sosfirsttest/af7eed05-9044-4632-be1f-c08a5dc2aeb3/index.html</link>
             <guid isPermaLink="false">af7eed05-9044-4632-be1f-c08a5dc2aeb3</guid>
             <pubDate>Sun, 21 Feb 2016 22:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>OK so lets see what happens when we add some content. OK so lets see what happens when we add some content. OK so lets see what happens when we add some content.</p>]]></description>
-            <link>https://thegrid.ai/sosfirsttest/08bb6324-96b8-4ba0-a979-f0ed4ffd3f49/index.html</link>
-            <guid isPermaLink="false">08bb6324-96b8-4ba0-a979-f0ed4ffd3f49</guid>
-            <pubDate>Sun, 21 Feb 2016 22:34:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
