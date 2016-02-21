@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[sosfirsttest]]></title>
         <description><![CDATA[sosfirsttest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sosfirsttest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 22:39:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 22:46:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sosfirsttest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Kickass Crowdfunding™ Show</p>]]></description>
+            <link>https://thegrid.ai/sosfirsttest/af7eed05-9044-4632-be1f-c08a5dc2aeb3/index.html</link>
+            <guid isPermaLink="false">af7eed05-9044-4632-be1f-c08a5dc2aeb3</guid>
+            <pubDate>Sun, 21 Feb 2016 22:40:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>OK so lets see what happens when we add some content. OK so lets see what happens when we add some content. OK so lets see what happens when we add some content.</p>]]></description>
-            <link>undefined08bb6324-96b8-4ba0-a979-f0ed4ffd3f49/index.html</link>
+            <link>https://thegrid.ai/sosfirsttest/08bb6324-96b8-4ba0-a979-f0ed4ffd3f49/index.html</link>
             <guid isPermaLink="false">08bb6324-96b8-4ba0-a979-f0ed4ffd3f49</guid>
             <pubDate>Sun, 21 Feb 2016 22:34:34 GMT</pubDate>
         </item>
