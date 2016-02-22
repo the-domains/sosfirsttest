@@ -4,7 +4,7 @@
         <description><![CDATA[This is SOS First Grid Website]]></description>
         <link>https://thegrid.ai/sosfirsttest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 15:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 15:38:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sosfirsttest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Main Title for the Titular Man]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[This is Going to be Awesome...]]></title>
-            <description><![CDATA[<article><h1>This is Going to be Awesome...</h1><p>The Kickass Crowdfunding™ Show</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06be78c2c5815965ca45ce913466ff00402f340d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>This is Going to be Awesome...</h1><p>The Kickass Crowdfunding™ Show</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5ca9adeac80409dfb60fb5eaf936017758f7711.jpg"></article>]]></description>
             <link>https://thegrid.ai/sosfirsttest/af7eed05-9044-4632-be1f-c08a5dc2aeb3/index.html</link>
             <guid isPermaLink="false">af7eed05-9044-4632-be1f-c08a5dc2aeb3</guid>
-            <pubDate>Mon, 22 Feb 2016 15:34:52 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 15:36:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
